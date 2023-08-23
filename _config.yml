@@ -1,0 +1,34 @@
+# Welcome to Jekyll!
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+lang: ru-RU
+title: Антон Вакуленко
+description: Фронтенд разработчик. Ищу работу в Москве.
+email: anton@avakulenko.ru
+url: http://avakulenko.ru
+theme: jekyll-theme-minimal
+
+# Analytics
+yandex_metrika: 46606440
+
+# Social Networks
+github:
+  username:  vzhikness
+twitter:
+  username: vzhikness
+facebook:
+  username: vzhikness
+linkedin:
+  username: antonvakulenko
+telegram:
+  username: vzhikness
+social:
+  name: Anton Vakulenko
+  links:
+    - https://twitter.com/vzhikness
+    - https://www.facebook.com/vzhikness
+    - https://www.linkedin.com/in/antonvakulenko
+    - https://www.github.com/vzhikness
